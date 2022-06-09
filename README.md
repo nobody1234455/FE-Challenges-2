@@ -26,11 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-<<<<<<< HEAD
-- Solution URL: [QR Code Website](https://your-solution-url.com)
-=======
+
 - Solution URL: [QR Code Website](https://qrcode-thihnezzy.netlify.app/)
->>>>>>> fb1dcb3 (fix readme and image link)
 
 ## My process
 
