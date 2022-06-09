@@ -22,11 +22,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/Screenshot%20from%202022-06-09%2015-13-32.png.png)
+![](./images/screenshot.png)
 
 ### Links
 
+<<<<<<< HEAD
 - Solution URL: [QR Code Website](https://your-solution-url.com)
+=======
+- Solution URL: [QR Code Website](https://qrcode-thihnezzy.netlify.app/)
+>>>>>>> fb1dcb3 (fix readme and image link)
 
 ## My process
 
