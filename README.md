@@ -26,7 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [QR Code Website](https://your-solution-url.com)
 
 ## My process
 
@@ -45,4 +45,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/nobody1234455)
+- Frontend Mentor - [@ThihNezzy](https://www.frontendmentor.io/profile/nobody1234455)
